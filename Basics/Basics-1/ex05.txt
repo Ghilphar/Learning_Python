@@ -1,0 +1,2 @@
+Define a function called greet that takes in a single parameter, name, and prints "Hello, [name]" to the console. Test the function by calling it with your own name as the argument.
+

@@ -1,0 +1,1 @@
+Create a variable called my_num and set it equal to the number 5. Print the value of my_num to the console.

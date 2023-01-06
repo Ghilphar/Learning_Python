@@ -1,0 +1,1 @@
+Use an if/else statement to print "The number is positive" if a variable num is greater than 0, and "The number is negative" if num is less than 0.
