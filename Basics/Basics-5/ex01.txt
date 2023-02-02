@@ -1,0 +1,2 @@
+Use the Pandas library to read a CSV file into a DataFrame and perform some basic operations on the data,
+such as selecting specific columns, filtering rows, and group by a column.

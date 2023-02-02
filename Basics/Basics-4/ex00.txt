@@ -1,0 +1,1 @@
+Define a class called Shape with a method called area that returns the area of the shape. Create subclasses for Circle and Rectangle, and override the area method in each subclass to provide the correct implementation for each shape.

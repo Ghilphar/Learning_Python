@@ -1,0 +1,1 @@
+Define a class called Pet with a method called speak that returns a string containing the sound that the pet makes. Create subclasses for Dog and Cat, and override the speak method in each subclass to return the appropriate sound for each type of pet.

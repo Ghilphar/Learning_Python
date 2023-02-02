@@ -1,0 +1,2 @@
+Use the Django framework to create a basic web application that displays a "Hello, World!"
+message when you visit the homepage.

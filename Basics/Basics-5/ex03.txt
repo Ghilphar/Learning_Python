@@ -1,0 +1,1 @@
+Use the matplotlib library to create a simple line plot of some data.

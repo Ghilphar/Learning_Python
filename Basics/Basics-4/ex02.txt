@@ -1,0 +1,1 @@
+Define a class called Person with a method called introduce that returns a string introducing the person. Create a subclass called Student, and override the introduce method to include the student's major.
